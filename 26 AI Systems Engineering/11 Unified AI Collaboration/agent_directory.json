@@ -1,0 +1,22 @@
+{
+    "agents": [
+      {
+        "agent_id": "summarizer",
+        "name": "SummarizationAgent",
+        "capabilities": ["summarize"],
+        "endpoint": "http://localhost:8001/summarize"
+      },
+      {
+        "agent_id": "text_generator",
+        "name": "TextGeneratorAgent",
+        "capabilities": ["generate_text"],
+        "endpoint": "http://localhost:8002/generate"
+      },
+      {
+        "agent_id": "sentiment_analyzer",
+        "name": "SentimentAnalysisAgent",
+        "capabilities": ["sentiment_analysis"],
+        "endpoint": "http://localhost:8003/analyze"
+      }
+    ]
+  }

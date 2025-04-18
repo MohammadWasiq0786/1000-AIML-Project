@@ -1,0 +1,9 @@
+If Alice has 3 apples and gives 1 to Bob, how many does she have left?
+ 
+Tom is twice as old as Jerry. If Jerry is 5 years old, how old is Tom?
+ 
+The train departs at 3:15 PM and takes 2 hours 45 minutes. What time does it arrive?
+ 
+What is the capital of France?
+ 
+If a box contains 3 red, 2 blue, and 5 green balls, what’s the probability of drawing a red ball?

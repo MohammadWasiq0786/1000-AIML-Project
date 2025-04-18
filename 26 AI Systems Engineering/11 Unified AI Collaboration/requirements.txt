@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+requests
+textblob
+
+# python -m textblob.download_corpora
