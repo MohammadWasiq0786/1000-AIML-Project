@@ -25,3 +25,4 @@
 23. Security and Privacy Projects
 24. Multi Modal AI Projects
 25. Meta and Hybrid AI Projects
+26. AI Systems Engineering Projects
